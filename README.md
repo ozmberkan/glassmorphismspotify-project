@@ -1,5 +1,5 @@
 ﻿# Glassmorphism Spotify Clone
-
+###### HTML,CSS,JS
  cam efektine sahip macos spotify klon tasarımı.
  (henüz responsive tasarıma sahip değil)
 
